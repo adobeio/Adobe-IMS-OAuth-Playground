@@ -1,0 +1,29 @@
+{
+  "name": "adobe-ims-oauth-playground",
+  "version": "1.0.0",
+  "description": "This is a simple app that allows you to retrieve Adobe IMS OAuth authorization code and access token based on Adobe I/O Console integration credentials",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git.corp.adobe.com/hireshah/Adobe-IMS-OAuth-Playground.git"
+  },
+  "author": "Hiren Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://git.corp.adobe.com/hireshah/Adobe-IMS-OAuth-Playground/issues"
+  },
+  "homepage": "https://git.corp.adobe.com/hireshah/Adobe-IMS-OAuth-Playground#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-routescan": "^0.2.1",
+    "http": "0.0.0",
+    "passport": "^0.4.0",
+    "request": "^2.83.0",
+    "socket.io": "^2.0.4",
+    "passport-adobe-oauth2": "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-runner-release/passport-adobe-oauth2/-/passport-adobe-oauth2-0.1.0.tgz"
+  }
+}
