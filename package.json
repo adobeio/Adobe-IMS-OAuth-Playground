@@ -24,6 +24,6 @@
     "passport": "^0.4.0",
     "request": "^2.83.0",
     "socket.io": "^2.0.4",
-    "passport-adobe-oauth2": "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-runner-release/passport-adobe-oauth2/-/passport-adobe-oauth2-0.1.0.tgz"
+    "passport-adobe-oauth2": "^1.0.0"
   }
 }
