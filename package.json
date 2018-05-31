@@ -1,21 +1,22 @@
 {
   "name": "adobe-ims-oauth-playground",
   "version": "1.0.0",
-  "description": "This is a simple app that allows you to retrieve Adobe IMS OAuth authorization code and access token based on Adobe I/O Console integration credentials",
+  "description":
+    "This is a simple app that allows you to retrieve Adobe IMS OAuth authorization code and access token based on Adobe I/O Console integration credentials",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://git.corp.adobe.com/hireshah/Adobe-IMS-OAuth-Playground.git"
+    "url": "git://github.com/adobeio/Adobe-IMS-OAuth-Playground.git"
   },
   "author": "Hiren Shah",
   "license": "MIT",
   "bugs": {
-    "url": "https://git.corp.adobe.com/hireshah/Adobe-IMS-OAuth-Playground/issues"
+    "url": "https://github.com/adobeio/Adobe-IMS-OAuth-Playground/issues"
   },
-  "homepage": "https://git.corp.adobe.com/hireshah/Adobe-IMS-OAuth-Playground#readme",
+  "homepage": "https://github.com/adobeio/Adobe-IMS-OAuth-Playground#readme",
   "dependencies": {
     "cookie-parser": "^1.4.3",
     "express": "^4.16.2",
