@@ -57,7 +57,7 @@ Browse to https://localhost:3000 and follow the shown instruction. Paste your cr
 # Credits
 
 * [@passport-adobe-oauth2](https://github.com/adobe/passport-adobe-oauth2)
-* Hiren Shah [@hirenshah111](https://github.com/hirenshah111)
+* Hiren Shah [@hirenoble](https://github.com/hirenoble)
 
 # License
 
